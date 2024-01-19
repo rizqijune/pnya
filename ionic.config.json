@@ -1,0 +1,8 @@
+{
+  "name": "PNYA",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "b168b882"
+}
